@@ -165,5 +165,3 @@ The system follows a modular design with three primary layers:
 ## **Conclusion**
 
 This project demonstrates a scalable, modular approach to building an IoT sensor and actuator monitoring system using STM32 and FreeRTOS. JSON commands ensure flexibility and compatibility with external systems. Future improvements could include adding more sensors, integrating MQTT, or supporting wireless communication.
-
---- 
