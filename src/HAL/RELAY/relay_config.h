@@ -2,7 +2,7 @@
  * relay_config.h
  *
  *  Created on: Dec 5, 2024
- *      Author: DELL
+ *  Author  : Mohamad Abelmoniem
  */
 #ifndef RELAY_CONFIG_H
 #define RELAY_CONFIG_H

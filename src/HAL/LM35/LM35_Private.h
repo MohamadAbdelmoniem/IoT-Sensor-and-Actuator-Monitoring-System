@@ -2,7 +2,7 @@
  * LM35_Private.h
  *
  *  Created on: Dec 5, 2024
- *      Author: Yasmeen Elkhateb
+ *  Author  : Mohamad Abelmoniem
  */
 
 #ifndef HAL_LM35_LM35_PRIVATE_H_

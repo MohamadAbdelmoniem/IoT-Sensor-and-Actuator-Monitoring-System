@@ -2,7 +2,7 @@
  * LM35_Config.h
  *
  *  Created on: Dec 5, 2024
- *      Author: Yasmeen Elkhateb
+ *  Author  : Mohamad Abelmoniem
  */
 
 #ifndef HAL_LM35_LM35_CONFIG_H_

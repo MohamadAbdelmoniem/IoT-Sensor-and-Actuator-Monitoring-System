@@ -2,7 +2,7 @@
  * MRCC_private.h
  *
  *  Created on: Dec 5, 2024
- *  Author  : Yasmeen Elkhateb
+ *  Author  : Mohamad Abelmoniem
  *  MICRO   : STM32F401CCU6
  *  LAYER   : MCAL
  *  DRIVER  : RCC_Driver

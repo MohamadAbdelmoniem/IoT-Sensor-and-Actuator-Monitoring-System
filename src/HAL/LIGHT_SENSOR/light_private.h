@@ -2,7 +2,7 @@
  * light_private.h
  *
  *  Created on: Dec 5, 2024
- *      Author: DELL
+ *  Author  : Mohamad Abelmoniem
  */
 
 #ifndef HAL_LIGHT_SENSOR_LIGHT_PRIVATE_H_

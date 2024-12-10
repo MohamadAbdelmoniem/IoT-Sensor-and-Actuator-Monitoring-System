@@ -2,7 +2,7 @@
  * MGPIO_Private.h
  *
  *  Created on: Dec 5, 2024
- *  Author  : Yasmeen Elkhateb
+ *  Author  : Mohamad Abelmoniem
  *  MICRO   : STM32F401CCU6
  *  LAYER   : MCAL
  *  DRIVER  : GPIO_Driver

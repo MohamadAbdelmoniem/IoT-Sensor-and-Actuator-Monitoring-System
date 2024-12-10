@@ -2,7 +2,7 @@
  * LM35_Prog.c
  *
  *  Created on: Dec 5, 2024
- *      Author: Yasmeen Elkhateb
+ *  Author  : Mohamad Abelmoniem
  */
 
 

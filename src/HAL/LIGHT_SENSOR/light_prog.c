@@ -2,7 +2,7 @@
  * light_prog.c
  *
  *  Created on: Dec 5, 2024
- *      Author: DELL
+ *  Author  : Mohamad Abelmoniem
  */
 #include "light_config.h"
 #include "light_private.h"

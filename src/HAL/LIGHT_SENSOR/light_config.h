@@ -2,7 +2,7 @@
  * light_config.h
  *
  *  Created on: Dec 5, 2024
- *      Author: DELL
+ *  Author  : Mohamad Abelmoniem
  */
 
 #ifndef LIGHT_CONFIG_H

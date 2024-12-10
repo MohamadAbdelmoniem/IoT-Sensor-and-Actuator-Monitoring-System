@@ -2,7 +2,7 @@
  * relay_int.h
  *
  *  Created on: Dec 5, 2024
- *      Author: DELL
+ *  Author  : Mohamad Abelmoniem
  */
 
 #ifndef RELAY_INT_H

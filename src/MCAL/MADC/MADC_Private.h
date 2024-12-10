@@ -1,8 +1,8 @@
 /*
  * MADC_Private.h
  *
- *  Created on: Sep 11, 2023
- *  Author  : Yasmeen Elkhateb
+ *  Created on: Dec 5, 2024
+ *  Author  : Mohamad Abelmoniem
  *  MICRO   : STM32F401CCU6
  *  LAYER   : MCAL
  *  DRIVER  : ADC_Driver
