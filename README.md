@@ -1,7 +1,5 @@
 # IoT Sensor and Actuator Monitoring System
 
----
-
 ## **Project Overview**
 
 This project implements a lightweight embedded system for monitoring and controlling IoT sensors and actuators using a FreeRTOS-based firmware. The system communicates via UART using JSON-formatted messages and supports the following functionalities:
